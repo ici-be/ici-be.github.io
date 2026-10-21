@@ -1,2 +1,5 @@
 User-agent: *
 Disallow: /VF/
+Allow: /gedcom/print
+Allow: /gedcom/assets/
+Disallow: /gedcom/
